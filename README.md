@@ -1,5 +1,5 @@
 # Circular Identicons
-Generate gorgeous circular default profile pictures for Android apps.
+Github's or Stackoverflow's identicons don't look good in circular profile pictures. Circular-identicons will generate gorgeous circular default profile pictures for your Android app.
 
 ## Examples
 The identicons are circular kaleidoscopes.

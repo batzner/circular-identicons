@@ -24,4 +24,4 @@ If you want to use your own source image, make sure to make it circular with a t
 
 ## Hash objects into identicons
 
-If you would like to turn any object into an identicon, you can call set the seed of `random` in `createIdenticon(...)` with the objects hash value.
+If you would like to turn any object into an identicon, you can set the seed of `random` in `createIdenticon(...)` with the object's hash value.
